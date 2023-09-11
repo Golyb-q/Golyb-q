@@ -8,3 +8,4 @@ metapix.net
 syn-ch.org
 maladaptive.art
 volatile.bz
+openai.com
