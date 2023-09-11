@@ -9,3 +9,4 @@ syn-ch.org
 maladaptive.art
 volatile.bz
 openai.com
+astar.bz
