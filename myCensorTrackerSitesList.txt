@@ -10,3 +10,4 @@ maladaptive.art
 volatile.bz
 openai.com
 gid-online.ru
+opera-api.com
