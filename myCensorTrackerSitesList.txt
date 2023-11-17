@@ -1,6 +1,4 @@
 ya.ru
-yandex.ru
-google.com
 lolibooru.moe
 paheal.net
 metapix.net
@@ -15,4 +13,14 @@ adguard.com
 catchan.pk
 spankbang.com
 pimeyes.com
+yandex.ru
+tiktok.com
+f95zone.to
 blogspot.com
+blogimg.jp
+hellven.net
+zerochan.net
+bing.com
+qt.io
+oaistatic.com
+oaiusercontent.com
